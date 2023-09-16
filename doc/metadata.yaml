@@ -5,6 +5,7 @@ github_url: https://github.com/mlab-modules/RFdetect01
 homepage: false
 images: []
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
