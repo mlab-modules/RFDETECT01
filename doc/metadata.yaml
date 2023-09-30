@@ -1,9 +1,11 @@
-description: null
-github_branch: main
+description: The wide bandwitch logarithmic amplifier and detector suitable for radio
+  frequency measurement.
+github_branch: RFDETECT01A
 github_repo: RFdetect01
 github_url: https://github.com/mlab-modules/RFdetect01
 homepage: false
-images: []
+images:
+- doc/img/RFdetect01A_QRcode.png
 mark: 50
 status: 4
 tags:

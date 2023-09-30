@@ -5,4 +5,5 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/RFdetect01
-summary: null
+summary: The wide bandwitch logarithmic amplifier and detector suitable for radio
+  frequency measurement.
