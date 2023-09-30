@@ -1,8 +1,8 @@
 description: The wide bandwitch logarithmic amplifier and detector suitable for radio
   frequency measurement.
 github_branch: RFDETECT01A
-github_repo: RFdetect01
-github_url: https://github.com/mlab-modules/RFdetect01
+github_repo: RFDETECT01
+github_url: https://github.com/mlab-modules/RFDETECT01
 homepage: false
 images:
 - doc/img/RFdetect01A_QRcode.png
@@ -11,4 +11,4 @@ status: 4
 tags:
 - mlab
 - mlab-module
-title: RFdetect01
+title: RFDETECT01
